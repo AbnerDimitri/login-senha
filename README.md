@@ -4,7 +4,7 @@ Rodrigo Secundo Araújo 2210189
 Vitor Goulão Lopes 2210044
 Victor Souza Silva 2211991
 
-Servidor de logi simples :
+Servidor de login simples :
 
 Este é um servidor básico feito com Node.js e Express que recebe um login e senha via requisição **POST** e retorna os mesmos dados.
 
